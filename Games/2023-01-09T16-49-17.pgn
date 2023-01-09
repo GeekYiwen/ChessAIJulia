@@ -1,0 +1,9 @@
+[Event "Random Chess"]
+[Site "DHBW Mannheim"]
+[Date "2023.01.09"]
+[Round "1"]
+[White "e2e4"]
+[Black "Random Player"]
+[Result "*"]
+
+1. e4 Nf6 2. Nc3 Nc6 3. Nf3 e5 4. d4 exd4 5. Nxd4 Nxd4 6. Qxd4 Bd6 7. Bc4 O-O 8. O-O Bb4 9. Nd5 Nxd5 10. Bxd5 Qe7 11. b3 Qd6 12. Bb2 Bc3 13. Bxc3 Qg6 14. Rad1 d6 15. f4 Bg4 16. Rd2 c5 17. Qe3 Rab8 18. Qg3 Rfd8 19. h3 Qh5 20. hxg4 Qg6 21. f5 Qg5 22. Kf2 c4 23. Rh1 cxb3 24. axb3 Rbc8 25. Rd3 Rc5 26. Ke2 Qe7 27. Qh2 h6 28. Bxg7 Rxc2+ 29. Kf3 Kxg7 30. Qxh6+ Kg8 31. Qh8# *
