@@ -10,6 +10,7 @@ This directory contains all the Jupyter Notebooks written in Julia needed for th
 
 | Notebook                | Function                                                                          |
 | ----------------------- | --------------------------------------------------------------------------------- |
+| AlphaBetaPruning.ipynb  | **AI** that calculates a move using the Alpha-Beta-Pruning algorithm              |
 | ChessJL Summary.ipynb   | A summary of the most important methods that Chess.jl provides                    |
 | EvaluatePosition.ipynb  | Evaluation a chess position refers how strong the position or one move is         |
 | Minimax.ipynb           | **AI** that calculates a move using the minimax algorithm                         |
