@@ -8,3 +8,8 @@ Black-checkmate:
 
 Offensichtliche Züge:
 	 8/4k3/8/4p3/8/2BK4/8/q7 w - - 0 1
+     
+     
+     
+perpetual checks bug:
+    6r1/1b1r1pp1/p1pPkn1p/4p3/P4P2/2P3KP/2B2P2/3RR3 b - - 0 1
