@@ -1,0 +1,9 @@
+[Event "AI Testing"]
+[Site "DHBW Mannheim"]
+[Date "2023.03.02"]
+[Round "1"]
+[White "Yiwen"]
+[Black "Player 2"]
+[Result "BLACK"]
+
+1. h4 Nf6 2. h5 Nc6 3. h6 gxh6 4. Rxh6 Bxh6 5. g4 Nxg4 6. f4 Bxf4 7. a3 Bg3# BLACK
