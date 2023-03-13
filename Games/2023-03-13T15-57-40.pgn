@@ -1,0 +1,9 @@
+[Event "AI Testing"]
+[Site "DHBW Mannheim"]
+[Date "2023.03.13"]
+[Round "1"]
+[White "Player 1"]
+[Black "Player 2"]
+[Result "WHITE"]
+
+1. Nc3 Nf6 2. Nb5 Nc6 3. Nf3 d5 4. d4 Bf5 5. Bg5 Ne4 6. Be3 e6 7. a3 Qf6 8. Nxc7+ Ke7 9. Nxa8 Kd8 10. Qd3 Nxd4 11. Bxd4 Bb4+ 12. axb4 e5 13. Bxe5 Qe6 14. Bxg7 Re8 15. Rxa7 Nxf2 16. Qc3 Qd6 17. Kxf2 Ke7 18. Qe3+ Be4 19. Rxb7+ Kd8 20. Nc7 Rg8 21. Be5 Qc6 22. Rb8+ Kd7 23. Rxg8 Bxf3 24. Qxf3 Qb6+ 25. e3 Qxb4 26. Qxd5+ Qd6 27. Qxd6# WHITE
