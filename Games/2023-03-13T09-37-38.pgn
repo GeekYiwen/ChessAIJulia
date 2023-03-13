@@ -1,0 +1,9 @@
+[Event "AI Testing"]
+[Site "DHBW Mannheim"]
+[Date "2023.03.13"]
+[Round "1"]
+[White "Luca"]
+[Black "Player 2"]
+[Result "draw"]
+
+1. e4 Nf6 2. e5 Ng8 3. d4 c6 4. Nf3 e6 5. Nc3 Bb4 6. a3 Ba5 7. b3 Bxc3+ draw
