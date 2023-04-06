@@ -54,4 +54,4 @@ The topic of `Memoization` is implemented in each of the AI notebooks individual
 
 The `QuiescenceSearch.ipynb` notebook implements Quiescence Search which will improve the accuracy of the evaluation when reaching the maximum depth. It should be read after Iterative Deepening as is it implemented there. An understanding of Quiescence Search is not needed to understand iterative deepening or any other AI.
 
-To play with an AI you can use the `Play.ipynb` notebook. The `Play.ipynb` uses four notebooks which contain helpng functions included in the `Utility.ipynb`, `ValidateUserInput.ipynb`, `PGN_Export.ipynb` and `PGN_Import.ipynb`. To see a comparison of the strengths of two AIs you can use the `EngineGames.ipynb`. It functions in a very similar way as the `Play.ipynb`.
+To play with an AI you can use the `Play.ipynb` notebook. The `Play.ipynb` uses four notebooks which contain helpng functions included in the `Utility.ipynb`, `PGN_Export.ipynb` and `PGN_Import.ipynb`. To see a comparison of the strengths of two AIs you can use the `EngineGames.ipynb`. It functions in a very similar way as the `Play.ipynb`.
