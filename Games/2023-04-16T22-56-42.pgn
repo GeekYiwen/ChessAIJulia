@@ -1,0 +1,9 @@
+[Event "AI Testing"]
+[Site "DHBW Mannheim"]
+[Date "2023.04.16"]
+[Round "1"]
+[White "Wendy"]
+[Black "Player 2"]
+[Result "BLACK"]
+
+1. Rd4 d5 2. c4 dxc4 3. e4 b5 4. a4 Nc6 5. Nf3 e5 6. d5 Bb4+ 7. Nc3 Nce7 8. axb5 Bg4 9. Bd2 Nf6 10. Bxc4 Bxc3 11. Bxc3 Nxe4 12. Bxe5 f6 13. Bxc7 Qxc7 14. O-O Qxc4 15. d6 Rd8 16. Ra6 Qxb5 17. Qd4 Bxf3 18. gxf3 Qxa6 19. d7+ Rxd7 20. Qxe4 f5 21. Qb4 O-O 22. Re1 Nd5 23. Qd2 Qg6+ 24. Kh1 f4 25. Rg1 Qf5 26. Qd4 Qc2 27. Re1 Nb6 28. Qe4 Qxf2 29. b4 Rd2 30. Qe6+ Kh8 31. Qh3 Qxe1+ 32. Qf1 Qxf1# BLACK
