@@ -1,0 +1,9 @@
+[Event "AI Testing"]
+[Site "DHBW Mannheim"]
+[Date "2023.04.20"]
+[Round "1"]
+[White "Peter"]
+[Black "Player 2"]
+[Result "draw"]
+
+1. e4 Nc6 2. d4 d5 3. e5 Bf5 4. Bd3 Nxd4 5. Bxf5 Nxf5 6. Nf3 e6 7. O-O Bc5 8. c3 Nge7 9. b4 Bb6 10. a4 a5 11. Ba3 Qd7 12. Nbd2 axb4 13. Bxb4 Nc6 14. a5 Nxa5 15. Qa4 Qxa4 16. Rxa4 Ra7 17. Rfa1 Nc6 18. Rxa7 Bxa7 19. g4 Nfe7 20. Nd4 Kd7 21. Bxe7 Bxd4 22. cxd4 Kxe7 23. Nb3 f6 24. f4 g5 25. fxg5 fxe5 26. dxe5 Nxe5 27. h3 Nf3+ 28. Kg2 Nxg5 29. Re1 Kd6 30. Nd4 Ne4 31. Re2 c5 32. Nf3 Rb8 33. Nd2 Nc3 34. Re1 Rf8 35. Nf3 Ne4 36. Re2 Rf7 37. Nd2 Nxd2 38. Rxd2 e5 39. Rf2 Re7 40. Rf6+ Kc7 41. h4 c4 42. g5 c3 43. h5 c2 44. Rf1 Rg7 45. g6 hxg6 46. h6 Rh7 47. Rc1 Kd6 48. Rxc2 Rxh6 49. Rb2 Kc6 50. Rc2+ Kd6 51. Rb2 Kc6 52. Rc2+ Kd6 draw
