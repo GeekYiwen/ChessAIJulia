@@ -1,0 +1,9 @@
+[Event "AI Testing"]
+[Site "DHBW Mannheim"]
+[Date "2023.04.27"]
+[Round "1"]
+[White "Luca"]
+[Black "Player 2"]
+[Result "draw"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 Bb4 4. Nf3 e4 5. Nh4 O-O 6. Bg2 Bxc3 7. dxc3 Nc6 8. Bg5 Re8 9. Qc2 d5 10. cxd5 Qxd5 11. Bxf6 gxf6 12. O-O f5 13. Bh3 Qc5 14. Rad1 Be6 15. Qc1 Red8 16. Qg5+ Kh8 17. Qf6+ Kg8 18. Bxf5 Rxd1 19. Rxd1 Re8 20. Qg5+ Kh8 21. Qh6 Bxf5 22. Qf6+ Kg8 23. Nxf5 Qf8 24. Nh6+ Qxh6 25. Qxh6 Re5 26. Rd7 Re7 27. Rxe7 Nxe7 28. Qg5+ Kf8 29. Qc5 c6 30. Qxa7 f5 31. Qxb7 Kf7 32. a4 Ke6 33. a5 f4 34. a6 e3 35. a7 f3 36. a8=Q fxe2 37. Qa2+ Kf6 38. Qa1 Nd5 39. Qxc6+ Ke5 40. c4 exf2+ 41. Kg2 f1=Q+ 42. Qxf1 Ne3+ 43. Kh3 exf1=Q+ 44. Kh4 Qxc4+ 45. Qxc4 Nxc4 46. b4 Nb6 47. Kh5 Nd5 48. b5 Nf6+ 49. Kg5 Ng8 50. h3 Kd5 51. Kf5 Ne7+ 52. Kf6 Nc8 53. h4 Nd6 54. b6 Kc6 55. g4 Kxb6 56. Kg7 Kc5 57. Kxh7 Kd5 58. h5 Ke6 59. h6 Kf7 60. g5 Ne4 61. g6+ Kf6 62. g7 Ng5+ 63. Kh8 Nf7+ 64. Kh7 Ng5+ 65. Kg8 Kg6 66. Kf8 Nh7+ 67. Ke7 Nf6 68. Kf8 Nd7+ 69. Kg8 Kxh6 70. Kh8 Nf6 71. g8=Q Nxg8 draw
