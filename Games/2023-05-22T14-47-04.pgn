@@ -1,0 +1,9 @@
+[Event "AI Testing"]
+[Site "DHBW Mannheim"]
+[Date "2023.05.22"]
+[Round "1"]
+[White "Luca"]
+[Black "Player 2"]
+[Result "draw"]
+
+1. c4 Nf6 2. Nc3 e5 3. g3 Bb4 4. Bg2 Nc6 5. Nf3 O-O 6. O-O e4 7. Ng5 Bxc3 8. bxc3 d5 9. d3 Bf5 10. cxd5 Qxd5 11. dxe4 Qxd1 12. Rxd1 Bg6 13. Ba3 Rfe8 14. f3 Ne5 15. Rd4 a6 16. Rb1 h6 17. Nh3 Nc6 18. Rd2 Na5 19. Rd4 Nc6 20. Rdd1 Rad8 21. Nf4 Rxd1+ 22. Rxd1 Na5 23. Nxg6 fxg6 24. Rd4 Nc6 25. Rd1 Kf7 26. Kf2 Ne5 27. h3 Nc4 28. Bc5 g5 29. Bf1 Rxe4 30. fxe4 Nxe4+ 31. Kf3 Nxc5 32. Rd5 Ne6 33. e4 Nb6 34. Rf5+ Ke7 35. c4 Nd4+ 36. Ke3 Nxf5+ 37. exf5 Kd6 38. Kd4 Nd7 39. a4 Nc5 40. a5 Nb3+ 41. Kc3 Nxa5 42. Bg2 Kc5 43. h4 gxh4 44. gxh4 b6 45. Bd5 b5 46. cxb5 Kxd5 47. bxa6 Nc6 48. Kd2 Ke5 49. Kc3 Kxf5 50. Kc4 Kg4 51. Kc5 Na7 52. Kd5 Kxh4 53. Ke6 g5 54. Kd7 c5 55. Kc7 g4 56. Kb7 g3 57. Kxa7 g2 58. Kb8 g1=Q 59. a7 Qg8+ 60. Kb7 Qd5+ 61. Kb8 Qb3+ 62. Ka8 Qa4 63. Kb8 Qb5+ 64. Ka8 Qa4 65. Kb8 Qb5+ 66. Ka8 Qa6 67. Kb8 Qb6+ 68. Ka8 Qc6+ 69. Kb8 Qb5+ draw
