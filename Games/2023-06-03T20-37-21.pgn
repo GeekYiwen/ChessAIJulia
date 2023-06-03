@@ -1,0 +1,11 @@
+[Event "?"]
+[Site "?"]
+[Date "?"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "BLACK"]
+[SetUp "1"]
+[FEN "K7/P6p/2q5/3p1k2/8/8/8/8 w - -"]
+
+1. Kb8 Qb6+ 2. Ka8 Qc6+ 3. Kb8 Qe8+ 4. Kb7 Qb5+ 5. Ka8 Qa6 6. Kb8 Qb6+ 7. Ka8 Qa5 8. Kb7 Qb5+ 9. Ka8 Qd7 10. Kb8 Qe8+ 11. Kb7 Qe7+ 12. Kb8 Qb4+ 13. Ka8 Qa4 14. Kb7 Qb3+ 15. Ka8 Qa4 16. Kb7 Qb3+ 17. Ka8 Qa2 18. Kb7 Qb2+ 19. Ka8 Qa3 20. Kb7 Qe7+ 21. Kb8 Qd6+ 22. Kb7 d4 23. Ka8 Qc6+ 24. Kb8 Qb6+ 25. Ka8 Qc6+ 26. Kb8 Qb6+ 27. Ka8 Qa5 28. Kb7 Qd5+ 29. Kb8 Qg8+ 30. Kb7 Qg2+ 31. Kb8 Qh2+ 32. Kb7 Qh1+ 33. Kb8 Qh2+ 34. Kb7 Qh1+ 35. Kb8 Qb1+ 36. Ka8 Qa2 37. Kb7 Qg2+ 38. Kb8 Qg8+ 39. Kb7 Qb3+ 40. Ka8 Qa4 41. Kb7 Qb4+ 42. Ka8 Qa4 43. Kb7 Qb5+ 44. Ka8 Qc4 45. Kb7 Qd5+ 46. Kb8 Qe5+ 47. Kb7 Qb5+ 48. Ka8 Qa5 49. Kb7 Qb4+ 50. Ka8 Qe7 51. Kb8 Qd6+ 52. Kb7 d3 53. Ka8 d2 54. Kb7 Qd7+ 55. Kb8 Qd8+ 56. Kb7 d1=Q 57. a8=R Qb1+ 58. Ka6 Qxa8# BLACK
