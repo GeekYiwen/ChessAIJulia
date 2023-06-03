@@ -1,0 +1,11 @@
+[Event "?"]
+[Site "?"]
+[Date "?"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "draw"]
+[SetUp "1"]
+[FEN "K7/P6p/2q5/3p1k2/8/8/8/8 w - -"]
+
+1. Kb8 Qb6+ 2. Ka8 Qa6 3. Kb8 Qb6+ 4. Ka8 Qa6 5. Kb8 Qb6+ draw

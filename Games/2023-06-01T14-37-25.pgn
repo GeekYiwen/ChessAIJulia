@@ -1,0 +1,11 @@
+[Event "?"]
+[Site "?"]
+[Date "?"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "BLACK"]
+[SetUp "1"]
+[FEN "K7/P6p/2q5/3p1k2/8/8/8/8 w - -"]
+
+1. Kb8 Qb6+ 2. Ka8 Qa6 3. Kb8 Qb6+ 4. Ka8 Qc6+ 5. Kb8 Qd6+ 6. Kb7 Qd7+ 7. Kb8 Qe8+ 8. Kb7 Qb5+ 9. Ka8 Qa5 10. Kb7 Qb5+ 11. Ka8 Qa6 12. Kb8 d4 13. Ka8 Qc8# BLACK
